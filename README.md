@@ -1,5 +1,5 @@
 # Data-Structure-Notes
-数据结构 浙大MOOC  
+MOOC_数据结构 浙江大学 陈越 何钦铭
   
 PPT来源：中国大学MOOC网  
 Notes:随堂笔记（本人所写）  
